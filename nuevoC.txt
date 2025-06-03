@@ -1,3 +1,6 @@
 validar la imagen al crear una receta (.avif)
 ingredientes cantidades
 que el admin no se pueda eliminar ni actualizar asi mismo
+
+
+fhehduheuhfu
